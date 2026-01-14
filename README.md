@@ -12,6 +12,10 @@ its a bit more complex than the simple slingshto tho the only difference between
 
 ---
 
+# DEMO VIDEO OF BOTH
+[![Watch The Video](https://img.youtube.com/vi/JlzO4pARLS0?si=qyMiDvRE8KGB9UQO/0.jpg)](https://youtu.be/JlzO4pARLS0?si=qyMiDvRE8KGB9UQO)
+
+
 WHAT DOES IT DO : 
 - One stationary planet with configurable mass(slingshot file)
 - Two stationary planet with configurable mass(3 object file) 
